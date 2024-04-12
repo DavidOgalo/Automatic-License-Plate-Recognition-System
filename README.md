@@ -1,15 +1,15 @@
-## Update
-__(29/7/2020)__
-- Rename `utils.py` to  `local_utils.py` to avoid conflicit with default Python library `utils.py`.
-- Replace error `index out of range` to `No License plate is founded!`.
-- In case error `No License Plate is founded!` popped up, try to adjust Dmin from `get_plate()` function. Keep in mind that larger Dmin means more highly plate's information is lost.
+## ANPR Project
+ 
+# Project Description 
 
-## [Read the series on Medium](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922)
-- Part 1: [Detection License Plate with Wpod-Net](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922)
-- Part 2: [Plate character segmentation with OpenCV](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-2-plate-de644de9849f)
-- Part 3: [Recognize plate license characters with OpenCV and Deep Learning](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-3-recognize-be2eca1a9f12)
+ANPR Parking Management System. Led the design and implementation of an Automatic Number Plate Recognition (ANPR) system, utilizing deep learning algorithms for accurate
+license plate identification. Employed TensorFlow for model training and optimization, leveraging supervised learning
+techniques with a dataset sourced from Kaggle. Utilized OpenCV for image preprocessing and feature extraction,
+enhancing model performance. Applied Optical Character Recognition (OCR) techniques and advanced image processing methodologies to extract license plate characters in real-time, ensuring precise and reliable identification.
+Additionally, implemented model evaluation and validation techniques to assess the performance of the ANPR system, including cross-validation and metrics such as accuracy and F1 score.
 
-## Tools and Libraries
+
+# Tools and Libraries
 - Python==3.6
 - Keras==2.3.1
 - Tensorflow==1.14.0
@@ -20,17 +20,6 @@ __(29/7/2020)__
 
 # Detect and Recognize Vehicle’s License Plate with Machine Learning and Python 
 
-### [Part 1: Detection License Plate with Wpod-Net](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922)
-<p align="center"><img src="./figures/Part1_result.jpg" width=640></p><br>
-
-### [Part 2: Plate character segmentation with OpenCV](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-2-plate-de644de9849f)
-
-<p align="center"><img src="./figures/Part2_result.jpg" width=640></p><br>
-
-### [Part 3: Recognize plate license characters with OpenCV and Deep Learning](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-3-recognize-be2eca1a9f12)
-
-<p align="center"><img src="./figures/Part3_result.jpg" width=640></p><br>
-
-
-## Credit
-[sergiomsilva](https://github.com/sergiomsilva/alpr-unconstrained)
+Part 1: Detection License Plate with Wpod-Net
+Part 2: Plate character segmentation with OpenCV
+Part 3: Recognize plate license characters with OpenCV and Deep Learning
