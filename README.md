@@ -6,21 +6,21 @@ Led the design and implementation of an Automatic Number Plate Recognition (ANPR
 <h3><strong>Key Concepts</strong></h3>
 
 Data Handling and Pre-processing<br>
-> - Data Cleaning: Utilized OpenCV for image preprocessing to address noise and artifacts, ensuring clean input data.
-> - Feature Engineering: Extracted significant features from raw images to enhance model performance.
-> - Data Visualization: Employed Matplotlib to visualize data distribution and preprocessing effects.
+> - <strong>Data Cleaning</strong>: Utilized OpenCV for image preprocessing to address noise and artifacts, ensuring clean input data.
+> - <strong>Feature Engineering</strong>: Extracted significant features from raw images to enhance model performance.
+> - <strong>Data Visualization</strong>: Employed Matplotlib to visualize data distribution and preprocessing effects.
 
 Machine Learning Algorithms<br>
-> - Supervised Learning:  Implemented supervised learning techniques using a dataset sourced from Kaggle, focusing on accurate license plate identification.
+> - <strong>Supervised Learning</strong>:  Implemented supervised learning techniques using a dataset sourced from Kaggle, focusing on accurate license plate identification.
 
 Deep Learning<br>
-> - Neural Networks: Designed and implemented deep learning models for license plate recognition.
-> - Frameworks: Used TensorFlow and Keras for model training and optimization.
-> - Model Training and Tuning: Applied advanced training techniques and hyperparameter tuning to optimize performance.
+> - <strong>Neural Networks</strong>: Designed and implemented deep learning models for license plate recognition.
+> - <strong>Frameworks</strong>: Used TensorFlow and Keras for model training and optimization.
+> - <strong>Model Training and Tuning</strong>: Applied advanced training techniques and hyperparameter tuning to optimize performance.
 
 Model Evaluation and Validation<br>
-> - Metrics: Evaluated model performance using accuracy and F1 score.
-> - Cross-Validation: Employed cross-validation techniques to ensure robustness and reliability.
+> - <strong>Metrics</strong>: Evaluated model performance using accuracy and F1 score.
+> - <strong>Cross-Validation</strong>: Employed cross-validation techniques to ensure robustness and reliability.
 
 <h3><strong>Technologies (Tools and Libraries)</strong></h3>
 - <strong>Python</strong>: Programming language used for the entire project. <br>
