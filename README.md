@@ -1,7 +1,7 @@
 ## Automatic Licence Plate Recognition (ALPR) Parking Management System
 
 <h3><strong>Description</strong></h3>
-Led the design and implementation of an Automatic Number Plate Recognition (ANPR) system, utilizing deep learning algorithms for accurate license plate identification. Employed TensorFlow for model training and optimization, leveraging supervised learning techniques with a dataset sourced from Kaggle. Utilized OpenCV for image preprocessing and feature extraction, enhancing model performance. Applied Optical Character Recognition (OCR) techniques and advanced image processing methodologies to extract license plate characters in real-time, ensuring precise and reliable identification. Additionally, implemented model evaluation and validation techniques to assess the performance of the ANPR system, including cross-validation and metrics such as accuracy and F1 score.
+Led the design and implementation of an Automatic Number Plate Recognition (ANPR) system, utilizing deep learning algorithms for accurate license plate identification. Employed TensorFlow for model training and optimization, leveraging supervised learning techniques with a dataset manually captured and collected. Utilized OpenCV for image preprocessing and feature extraction, enhancing model performance. Applied Optical Character Recognition (OCR) techniques and advanced image processing methodologies to extract license plate characters in real-time, ensuring precise and reliable identification. Additionally, implemented model evaluation and validation techniques to assess the performance of the ANPR system, including cross-validation and metrics such as accuracy and F1 score.
 
 <h3><strong>Key Concepts</strong></h3>
 
@@ -11,7 +11,7 @@ Data Handling and Pre-processing<br>
 > - <strong>Data Visualization</strong>: Employed Matplotlib to visualize data distribution and preprocessing effects.
 
 Machine Learning Algorithms<br>
-> - <strong>Supervised Learning</strong>:  Implemented supervised learning techniques using a dataset sourced from Kaggle, focusing on accurate license plate identification.
+> - <strong>Supervised Learning</strong>:  Implemented supervised learning techniques using a sample plate dataset, focusing on accurate license plate identification.
 
 Deep Learning<br>
 > - <strong>Neural Networks</strong>: Designed and implemented deep learning models for license plate recognition.
@@ -46,7 +46,7 @@ Part 3: Recognize Plate License Characters with OpenCV and Deep Learning
 <ol>
 <li>Clone the Repository</li>
 <li>Install Dependencies: Use the provided requirements file or manually install the required libraries.</li>
-<li>Dataset: Download the dataset from Kaggle and place it in the designated directory.</li>
+<li>Dataset: Collect sample plate dataset relative to respective country number plate format and place it in designated directory of choice.</li>
 <li>Run the Preprocessing Script: Preprocess the images using OpenCV.</li>
 <li>Train the Model: Use the training scripts to train the ANPR model.</li>
 <li>Evaluate the Model: Run the evaluation scripts to assess the model</li> performance using cross-validation and metrics like accuracy and F1 score.
