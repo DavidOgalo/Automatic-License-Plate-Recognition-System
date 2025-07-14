@@ -52,6 +52,5 @@ Part 3: Recognize Plate License Characters with OpenCV and Deep Learning
 <li>Evaluate the Model: Run the evaluation scripts to assess the model</li> performance using cross-validation and metrics like accuracy and F1 score.
 </ol>
 
-<h3><strong>Maintainers and Contributors</h3></strong>
-<strong>Maintainer</strong>: David Ogalo <br>
-<strong>Contributors</strong>: Contributions are welcome. Please reach out for more information on contribution guidelines on this project.
+<h4>System Design Document</h4>
+[ANPR System Design Document](https://drive.google.com/file/d/1r2ilcIkRU0rLgd0pFoAz98xfZdq3w6Rr/view?usp=sharing)
