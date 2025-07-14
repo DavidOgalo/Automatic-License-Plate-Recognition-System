@@ -3,6 +3,9 @@
 <h3><strong>Description</strong></h3>
 Led the design and implementation of an Automatic Number Plate Recognition (ANPR) system, utilizing deep learning algorithms for accurate license plate identification. Employed TensorFlow for model training and optimization, leveraging supervised learning techniques with a dataset manually captured and collected. Utilized OpenCV for image preprocessing and feature extraction, enhancing model performance. Applied Optical Character Recognition (OCR) techniques and advanced image processing methodologies to extract license plate characters in real-time, ensuring precise and reliable identification. Additionally, implemented model evaluation and validation techniques to assess the performance of the ANPR system, including cross-validation and metrics such as accuracy and F1 score.
 
+<h4>System Design Document</h4>
+<a href="https://drive.google.com/file/d/1r2ilcIkRU0rLgd0pFoAz98xfZdq3w6Rr/view?usp=sharing">ANPR System Design Document</a>
+
 <h3><strong>Key Concepts</strong></h3>
 
 Data Handling and Pre-processing<br>
@@ -51,6 +54,3 @@ Part 3: Recognize Plate License Characters with OpenCV and Deep Learning
 <li>Train the Model: Use the training scripts to train the ANPR model.</li>
 <li>Evaluate the Model: Run the evaluation scripts to assess the model</li> performance using cross-validation and metrics like accuracy and F1 score.
 </ol>
-
-<h4>System Design Document</h4>
-[ANPR System Design Document](https://drive.google.com/file/d/1r2ilcIkRU0rLgd0pFoAz98xfZdq3w6Rr/view?usp=sharing)
