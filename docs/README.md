@@ -114,4 +114,4 @@ For a detailed exploration of the system’s architecture, including design rati
 
 ## License
 
-MIT License - see the [LICENSE](./LICENSE) file for details.
+MIT License - see the [LICENSE](../LICENSE) file for details.

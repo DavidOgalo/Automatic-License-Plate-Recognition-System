@@ -161,4 +161,4 @@ This error guide provides detailed troubleshooting steps for common issues encou
 
 ## License
 
-MIT License - see the [LICENSE](./LICENSE) file for details.
+MIT License - see the [LICENSE](../LICENSE) file for details.

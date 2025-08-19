@@ -133,4 +133,4 @@ Method](https://www.ijfmr.com/papers/2024/1/11930.pdf)
 
 ## License
 
-MIT License - See the [LICENSE](./LICENSE) file for details.
+MIT License - See the [LICENSE](../LICENSE) file for details.
